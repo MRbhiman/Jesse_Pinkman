@@ -45,4 +45,4 @@ async def deletemultiplemedia(bot, message):
             if result.deleted_count:
                 logger.info('File is successfully deleted from database.')
             else:
-                logger.info('File not found in database.')
+                logger.info('File not found.')
