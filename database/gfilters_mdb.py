@@ -111,4 +111,3 @@ async def gfilter_stats():
     totalcollections = len(collections)
 
     return totalcollections, totalcount
-
