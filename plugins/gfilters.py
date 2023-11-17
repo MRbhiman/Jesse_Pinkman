@@ -32,7 +32,7 @@ async def addgfilter(client, message):
         reply_text, btn, alert = gfilterparser(extracted[1], text)
         fileid = None
         if not reply_text:
-            await message.reply_text("You cannot have buttons alone, give some text to go with it!", quote=True)
+            await message.reply_text("You cannot have buttons alone, give some text!", quote=True)
             return
 
     elif message.reply_to_message and message.reply_to_message.reply_markup:
