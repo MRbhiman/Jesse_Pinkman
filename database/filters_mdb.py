@@ -113,3 +113,5 @@ async def filter_stats():
     totalcollections = len(collections)
 
     return totalcollections, totalcount
+
+
