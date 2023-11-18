@@ -247,7 +247,7 @@ async def next_page(bot, query):
         InlineKeyboardButton("𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 💬", callback_data=f"select_lang#{req}")
     ])
     btn.insert(0, [
-        InlineKeyboardButton("💌𝙵𝚘𝚛 𝙰𝚍𝚍 𝙵𝚒𝚕𝚎𝚜💌", url=f"https://t.me/{temp.U_NAME}")
+        InlineKeyboardButton("🗂𝙵𝚘𝚛 𝙰𝚍𝚍 𝙽𝚎𝚠 𝙵𝚒𝚕𝚎𝚜🗂", url=f"https://t.me/{temp.U_NAME}")
     ])
     try:
         await query.edit_message_reply_markup(
@@ -360,7 +360,7 @@ async def language_check(bot, query):
         ])
 
         btn.insert(0, [
-            InlineKeyboardButton("💌𝙵𝚘𝚛 𝙰𝚍𝚍 𝙵𝚒𝚕𝚎𝚜💌", url=f"https://t.me/{temp.U_NAME}")
+            InlineKeyboardButton("🗂𝙵𝚘𝚛 𝙰𝚍𝚍 𝙽𝚎𝚠 𝙵𝚒𝚕𝚎𝚜🗂", url=f"https://t.me/{temp.U_NAME}")
         ])
 
         if offset != "":
@@ -384,7 +384,7 @@ async def language_check(bot, query):
                 )
         else:
             btn.append(
-                [InlineKeyboardButton(text="Files തീർന്നു💌",callback_data="pages")]
+                [InlineKeyboardButton(text="Files തീർന്നു‼",callback_data="pages")]
             )
         try:
             await query.edit_message_reply_markup(
@@ -411,7 +411,7 @@ async def select_language(bot, query):
         InlineKeyboardButton("Kᴀɴɴᴀᴅᴀ", callback_data=f"lang#{userid}#kan"),
         InlineKeyboardButton("Tᴇʟᴜɢᴜ", callback_data=f"lang#{userid}#tel")
     ],[
-        InlineKeyboardButton("❤Mᴀʟᴀʏᴀʟᴀᴍ🖤", callback_data=f"lang#{userid}#mal")
+        InlineKeyboardButton("Mᴀʟᴀʏᴀʟᴀᴍ", callback_data=f"lang#{userid}#mal")
     ],[
         InlineKeyboardButton("Mᴜʟᴛɪ Aᴜᴅɪᴏ", callback_data=f"lang#{userid}#multi"),
         InlineKeyboardButton("Dᴜᴀʟ Aᴜᴅɪᴏ", callback_data=f"lang#{userid}#dual")
@@ -696,13 +696,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     await query.answer(url=f"https://t.me/{temp.U_NAME}?start={ident}_{file_id}")
                     return
                 else:
-                    await query.answer(f"Hᴇʏ {query.from_user.first_name}, Tʜɪs Is Nᴏᴛ Yᴏᴜʀ Mᴏᴠɪᴇ Rᴇǫᴜᴇsᴛ. Rᴇǫᴜᴇsᴛ Yᴏᴜʀ's !", show_alert=True)
+                    await query.answer(f"Hᴇʏ {query.from_user.first_name}, ഇത് നിങ്ങളുടേതല്ല‼. ask for new 💌", show_alert=True)
             elif settings['botpm']:
                 if clicked == typed:
                     await query.answer(url=f"https://t.me/{temp.U_NAME}?start={ident}_{file_id}")
                     return
                 else:
-                    await query.answer(f"Hᴇʏ {query.from_user.first_name}, Tʜɪs Is Nᴏᴛ Yᴏᴜʀ Mᴏᴠɪᴇ Rᴇǫᴜᴇsᴛ. Rᴇǫᴜᴇsᴛ Yᴏᴜʀ's !", show_alert=True)
+                    await query.answer(f"Hᴇʏ {query.from_user.first_name}, ഇത് നിങ്ങളുടേതല്ല‼. ask for new 💌", show_alert=True)
             else:
                 if clicked == typed:
                     if IS_VERIFY and not await check_verification(client, query.from_user.id):
@@ -1306,7 +1306,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "coct":
         buttons = [[
-            InlineKeyboardButton('⟸ Bᴀᴄᴋ', callback_data='help')
+            InlineKeyboardButton('👩‍🦯 Back', callback_data='help')
         ]]
         await client.edit_message_media(
             query.message.chat.id, 
@@ -1625,7 +1625,7 @@ async def auto_filter(client, msg, spoll=False):
     ])
 
     btn.insert(0, [
-        InlineKeyboardButton("💌𝙵𝚘𝚛 𝙰𝚍𝚍 𝙵𝚒𝚕𝚎𝚜💌", url=f"https://t.me/{temp.U_NAME}")
+        InlineKeyboardButton("🗂𝙵𝚘𝚛 𝙰𝚍𝚍 𝙽𝚎𝚠 𝙵𝚒𝚕𝚎𝚜🗂", url=f"https://t.me/{temp.U_NAME}")
     ])
 
     if offset != "":
@@ -1648,7 +1648,7 @@ async def auto_filter(client, msg, spoll=False):
             )
     else:
         btn.append(
-            [InlineKeyboardButton(text="Files തീർന്നു",callback_data="pages")]
+            [InlineKeyboardButton(text="Files തീർന്നു ‼",callback_data="pages")]
         )
     imdb = await get_poster(search, file=(files[0]).file_name) if settings["imdb"] else None
     TEMPLATE = settings['template']
