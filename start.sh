@@ -1,12 +1,12 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/MRbhiman/Jesse_Pinkman.git /JessePinkman
+  git clone https://github.com/Joelkb/DQ-the-file-donor.git /DQTheFileDonorBot
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO /JessePinkmanBot
+  git clone $UPSTREAM_REPO /DQTheFileDonorBot
 fi
-cd /JessePinkmanBot
+cd /DQTheFileDonorBot
 pip3 install -U -r requirements.txt
-echo "Starting Jesse_Pinkman...."
+echo "Starting DQ-The-File-Donor...."
 python3 bot.py
