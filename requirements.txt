@@ -10,3 +10,4 @@ git+https://github.com/Joelkb/cinemagoer
 datetime
 pytz
 aiohttp
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
