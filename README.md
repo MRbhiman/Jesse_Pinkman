@@ -6,7 +6,7 @@
     
  <p>𝙹𝚎𝚜𝚜𝚎 𝙿𝚒𝚗𝚔𝚖𝚊𝚗</p>
   
-[![Static Badge](https://img.shields.io/badge/its%20me-Walter_White-brightgreen?style=flat-square&logo=rootme&logoColor=maroon&labelColor=silver&color=maroon)](https://t.me/Bhiman22bot)   
+[![Static Badge](https://img.shields.io/badge/its%20me-Jesse_Pinkman-brightgreen?style=flat-square&logo=rootme&logoColor=maroon&labelColor=silver&color=maroon)](https://t.me/Bhiman22bot)   
    </h2>
 
 
