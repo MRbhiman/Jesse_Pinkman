@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=45&duration=4000&pause=1000&color=f8d904&random=false&width=500&height=70&lines=its+not+a+game!++;Bitc*!)](https://git.io/typing-svg)</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=45&duration=4000&pause=1000&color=800000&random=false&width=500&height=70&lines=its+not+a+game!++;Bitc*!)](https://git.io/typing-svg)</p>
 <p align="center">
   <img src="https://telegra.ph/file/a466bae8f3b832608755f.jpg">
   </p>
