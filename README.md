@@ -1,13 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=45&duration=4000&pause=1000&color=800000&random=false&width=500&height=70&lines=its+not+a+game!++;Bitc*!)](https://git.io/typing-svg)</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Vina+Sans&size=35&pause=1000&color=800000&random=false&width=435&lines=Its+not+a+game!;bitc*!)](https://git.io/typing-svg)
 <p align="center">
   <img src="https://telegra.ph/file/f735eed9d6736e62b1482.jpg">
   </p>
-  <h1 align="center">
+  <h2 align="center">
     
  <p>𝙹𝚎𝚜𝚜𝚎 𝙿𝚒𝚗𝚔𝚖𝚊𝚗</p>
   
 [![Static Badge](https://img.shields.io/badge/its%20me-Walter_White-brightgreen?style=flat-square&logo=rootme&logoColor=maroon&labelColor=silver&color=maroon)](https://t.me/Bhiman22bot)   
-   </h1>
+   </h2>
 
 
 ## Features
