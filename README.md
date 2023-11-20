@@ -12,7 +12,7 @@
 
 ## Features
 
-<b><details><summary>𝗪𝗮𝗹𝘁𝗲𝗿 𝗪𝗵𝗶𝘁𝗲</summary><br>
+<b><details><summary>𝙹𝚎𝚜𝚜𝚎 𝙿𝚒𝚗𝚔𝚖𝚊𝚗</summary><br>
 	
 | Features |  Availability |
 | :------: |  :----------: |
