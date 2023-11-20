@@ -66,10 +66,10 @@
 </details> 
 
 ## I Know Business
- [![Static Badge](https://img.shields.io/badge/Walter_White-brightgreen?style=flat-square&logo=telegram&logoColor=maroon&labelColor=silver&color=maroon)](https://t.me/mrbhiman44)
+ [![Static Badge](https://img.shields.io/badge/Walter_White-brightgreen?style=flat-square&logo=telegram&logoColor=maroon&labelColor=silver&color=maroon)](https://t.me/Haker8000)
 
 ## He Know Cooking
- [![Static Badge](https://img.shields.io/badge/Jesse%20Pinkman-brightgreen?style=flat-square&logo=telegram&logoColor=maroon&labelColor=silver&color=maroon)](https://t.me/Haker8000)
+ [![Static Badge](https://img.shields.io/badge/Jesse%20Pinkman-brightgreen?style=flat-square&logo=telegram&logoColor=maroon&labelColor=silver&color=maroon)](https://t.me/mrbhiman44)
 
 ## Thanks to 
 
