@@ -59,11 +59,11 @@
 <details><summary>Deploy To Render {Free}</summary>
 <p>
 <br>
-<a href="https://dashboard.render.com/select-repo?type=web">
-  <img src="https://render.com/images/deploy-to-render-button.svg" alt="deploy-to-render">
-  </a>
-  </p>
-  </details> 
+<a href="https://render.com/deploy?repo=https://github.com/Joelkb/DQ-the-file-donor/tree/web">
+<img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a>
+</p>
+</details> 
 
 ## I Know Business
  [![Static Badge](https://img.shields.io/badge/Walter_White-brightgreen?style=flat-square&logo=telegram&logoColor=maroon&labelColor=silver&color=maroon)](https://t.me/mrbhiman44)
