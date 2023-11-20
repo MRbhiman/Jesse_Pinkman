@@ -8,7 +8,7 @@ services:
     repo: https://github.com/MRbhiman/Jesse_Pinkman.git # optional
     region: oregon # optional (defaults to oregon)
     plan: free # optional (defaults to starter)
-    branch: Web# optional (defaults to master)
+    branch: Web # optional (defaults to master)
     numInstances: 1 # optional (defaults to 1)
     healthCheckPath: /
 
