@@ -1,4 +1,4 @@
-FROM python:3.13-rc-slim
+FROM python:3.15-rc-slim
 
 RUN apt update && apt upgrade -y
 RUN apt install git -y
